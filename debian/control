@@ -7,8 +7,8 @@ Standards-Version: 4.1.4
 Package: hamonikr-plymouth-theme
 Architecture: all
 Depends:
-Conflicts: 
-Replaces: ubuntu-system-adjustments, mint-artwork, mint-artwork-common, mintsystem
+Conflicts: plymouth-theme-hamonikr
+Replaces: ubuntu-system-adjustments, mint-artwork, mint-artwork-common, mintsystem, plymouth-theme-hamonikr
 Homepage: https://hamonikr.org
 Description: hamonikr plymouth theme
   하모니카 plymouth theme

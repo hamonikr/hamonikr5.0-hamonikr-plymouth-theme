@@ -1,3 +1,10 @@
+hamonikr-plymouth-theme (3.0.1) hanla; urgency=medium
+
+  * replace plymouth-theme-hamonikr in 4.0
+  * conflict plymouth-theme-hamonikr
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 08 Apr 2021 12:04:55 +0900
+
 hamonikr-plymouth-theme (3.0.0) public; urgency=medium
 
   * Release for HamoniKR 5.0
